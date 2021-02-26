@@ -4,7 +4,7 @@ Generate gif animation from text
 
 Usage:<br>
 `composer require stas-bool/gifer`
-```
+```php
 <?php
 
 require_once __DIR__.'/vendor/autoload.php';
