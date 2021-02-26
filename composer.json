@@ -1,6 +1,6 @@
 {
   "name": "stas-bool/gifer",
-  "description": "Convert text to gif animation",
+  "description": "Generate gif animation from text",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
