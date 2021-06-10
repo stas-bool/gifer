@@ -1,6 +1,7 @@
 # gifer
 Generate gif animation from text
 
+Try it: http://t.me/VexyTextyGifer_bot
 
 Usage:<br>
 `composer require stas-bool/gifer`
